@@ -1,0 +1,329 @@
+Tableau Multiple Choice Questions And Answers
+1. A Reference Band cannot be based on two fixed points.
+a) False
+b) True
+
+
+ 
+Answer Explanation: a
+
+2. A Reference Distribution plot cannot be along a continuous axis.
+a) True
+b) False
+
+Answer Explanation: b
+A Reference Distribution plot can be along a continuous axis.
+
+3. Which of the following is not a Trend Line model
+a) Linear Trend Line
+b) Exponential Trend Line
+c) Binomial Trend Line
+d) Logarithmic Trend Line
+
+Answer Explanation: c
+Binomial Trend Line is not a Trend Line model.
+
+4. The image below uses which map visualization?
+a) Filled maps
+b) Layered maps
+c) WMS server maps
+d) Symbol maps
+
+Answer Explanation: c
+
+5. Is it possible to deploy a URL action on a dashboard object to open a Web Page within a dashboard rather than opening the system’s web browser?
+a) True, with the use of Tableau Server
+b) True, with the use of a Web Page object
+c) False, not possible
+d) True, requires a plug-in
+
+Answer Explanation: b
+True, with the use of a Web Page object it is possible to deploy a URL action on a dashboard object to open a web page within a dashboard rather than opening the system’s web browser.
+
+6. The Highlighting action can be disabled for the entire workbook.
+a) True
+b) False
+
+Answer Explanation: a
+From the toolbar the Highlighting action can be disabled for the entire workbook.
+
+7. A sheet cannot be used within a story directly. Either sheets should be used within a dashboard, or a dashboard should be used within a story.
+a) True
+b) False
+
+Answer Explanation: b
+A sheet can be used within a story directly.
+
+8. How do you identify a continuous field in Tableau?
+a) It is identified by a blue pill in the visualization.
+b) It is identified by a green pill in a visualization.
+c) It is preceded by a # symbol in the data window.
+d) When added to the visualization, it produces distinct values.
+
+Answer Explanation: b
+It is identified by a green pill in a visualization
+
+9. Is it possible to use measures in the same view multiple times (e.g. SUM of the measure and AVG of the measure)?
+a) No
+b) Yes
+
+Answer Explanation: b
+Yes, measures can be used multiple times in the same view.
+
+10. Sets can be created on Measures.
+a) False
+b) True
+
+Answer Explanation: a
+Sets can be created on dimensions.
+
+Tableau Multiple Choice Interview Questions And Answer
+11. For creating variable size bins we use _____________.
+a) Sets
+b) Groups
+c) Calculated fields
+d) Table Calculations
+
+Answer Explanation: c
+For creating variable size bins we use Calculated Fields.
+
+12. A good reason to use a bullet graph.
+a) Analyzing the trend for a time period
+b) Comparing the actual against the target sales
+c) Adding data to bins and calculating count measure
+d) Displaying the sales growth for a particular year
+
+Answer Explanation: b
+
+13. The line shown in the image below is a Reference Line. True or False?
+a) true
+b) false
+
+Answer Explanation: b
+The line shown in the image is a Trend Line.
+
+14. Disaggregation returns all records in the underlying data source.
+a) True
+b) False
+
+Answer Explanation: a
+Disaggregation returns all records in the underlying data sources.
+
+15. By definition, Tableau displays measures over time as a ____________.
+a) Bar
+b) Line
+c) Histogram
+d) Scatter Plots
+
+Answer Explanation: b
+By definition, Tableau displays measures over time as a Lines.
+
+16. The icon associated with the field that has been grouped is a ______________.
+a) Paper Clip
+b) Set
+c) Hash
+d) Equal To
+
+Answer Explanation: a
+The icon associated with the field that has been grouped is a paper clip.
+
+17. In the West region, which state’s sales fall within the Reference Band starting from average sales of that region till median of sales? (Perform the below questions in Tableau 9.0 and connect to the Saved Sample – Superstore dataset)
+a) California
+b) Colorado
+c) Montana
+d) New Mexico
+
+Answer Explanation: b
+
+18. Create a simple bar chart with Region and Total Expenses from the Sample- Superstore dataset and Sample -Coffee Chain dataset, respectively. (Establish the link on State). Identify the budgeted profit for the region having the 2nd highest total expenditure. (Connect to the Sample- Coffee Chain access file using the CoffeeChain Query table)
+a) 84850
+b) 87680
+c) 80231
+d) 84823
+
+Answer Explanation: b
+
+19. In 2012, what is the percent contribution of sales for Decaf in the East market? (Perform all the questions in Tableau 9.0 and connect to the Saved Sample-Superstore dataset)
+a) 48.942%
+b) 54.765%
+c) 51.231%
+d) 55.875%
+
+Answer Explanation: a
+48.942% is the percent contribution of sales of Decaf in 2012 in the East market.
+
+20. In 2013, what is the percentage of total profit for Caffe Mocha falling under Major Market (Market Size)?(Perform all the questions in Tableau 9.0 and connect to the Saved Sample-Superstore dataset)
+a) 60%
+b) 45%
+c) 58%
+d) 55%
+
+Answer Explanation: d
+In 2013, the percentage of total profit for Caffe Mocha falling under Major Market is 55%.
+
+Tableau Certification Questions And Answers
+21. Create a heat map for Product Type, State, and Profit. Which state in the East market has the lowest profit for Espresso?(Use the Sample- Coffee Chain dataset for the following questions)
+a) Florida
+b) Connecticut
+c) New York
+d) New Hampshire
+
+Answer Explanation: d
+New Hampshire has the lowest profit for Espresso, in the East market.
+
+22. In 2012, what is the difference in budget profit, in Q3 from the previous quarter for major market (Market Size)? (Use the Sample- Coffee Chain dataset for the following questions)
+a) 630
+b) -287
+c) 667
+d) 654
+
+Answer Explanation: a
+
+23. In which month did the running sales cross $30,000 for Decaf in Colorado and Florida? (Use the Sample- Coffee Chain dataset for the following questions)
+a) November 2013
+b) September 2013
+c) May 2013
+d) December 2013
+
+Answer Explanation: c
+
+24. Create a bar chart with Product Type, Product, and Profit. Identify which of the following products fall below the overall 99.9% Confidence Interval Distribution (Table across)? (Use the Sample- Coffee Chain dataset for the following questions)
+a) Decaf Espresso
+b) Green Tea
+c) Caffe Latte
+d) Regular Espresso
+
+Answer Explanation: b
+
+25. Using quartiles, identify which of the following Espresso product has the highest distribution of sales? (Use the Sample- Coffee Chain dataset for the following questions)
+a) Decaf Espresso
+b) Caffe Mocha
+c) Caffe Latte
+d) Regular Espresso
+
+Answer Explanation: d
+Regular Espresso has the highest distribution of sales in Espresso product.
+
+26. In 2013, identify the state with the highest profit in the West market? (Use the Sample- Coffee Chain dataset for the following questions)
+a) Utah
+b) Nevada
+c) California
+d) Washington
+
+Answer Explanation: c
+
+27. Create a scatter plot with State, Sales, and Profit. Identify the Trend Line with ‘R-Squared’ value between 0.7 to 0.8? (Use the Sample- Coffee Chain dataset for the following questions)
+a) Linear Trend Line
+b) Logarithmic Trend Line
+c) Exponential Trend Line
+d) Polynomial Trend Line with Degree 2
+
+Answer Explanation: d
+The Trend Line with ‘R-Squared’ value between 0.7 to 0.8 is a Polynomial Trend Line with Degree 2.
+
+28. Identify the total expenses to sales ratio of the state with the lowest profit. (Use the Sample- Coffee Chain dataset for the following questions)
+a) 47.31%
+b) 45.58%
+c) 41.98%
+d) 40.78%
+
+Answer Explanation: b
+
+29. Create a Combined Field with Product and State. Identify the highest selling product and its state. (Use the Sample- Coffee Chain dataset for the following questions)
+a) Colombian, California
+b) Colombian, Texa
+c) Lemon, Neva
+d) Darjeeling, Iowa
+
+Answer Explanation: a
+
+30. What is the contribution of tea to the overall Profit in 2012? (Use the Sample- Coffee Chain dataset for the following questions)
+a) 24.323%
+b) 22.664%
+c) 20.416%
+d) 21.765%
+
+Answer Explanation: c
+
+Tableau Multiple Choice Questions For Experienced
+31. What is the average profit ratio for all the products starting with C? (Use the Sample- Coffee Chain dataset for the following questions)
+a) 30%
+b) 25%
+c) 33%
+d) 20%
+
+Answer Explanation: c
+
+32. What is the distinct count of area codes for the state with the lowest budget margin in small markets? (Use the Sample- Coffee Chain dataset for the following questions)
+a) 3
+b) 1
+c) 2
+d) 6
+
+Answer Explanation: b
+
+33. Which product type does not have any of its product within the Top 5 Products by sales? (Use the Sample- Coffee Chain dataset for the following questions)
+a) Tea
+b) Espresso
+c) Coffee
+d) Herbal Tea
+
+Answer Explanation: a
+
+34. In the Central region, the Top 5 Products by sales contributed _____ % of the total expenditure. (Use the Sample- Coffee Chain dataset for the following questions)
+a) 48.54%
+b) 51.66%
+c) 69.21%
+d) 54.02%
+
+Answer Explanation: d
+In the Central region, the Top 5 Products by sales contributed 54.02 % of the total expenditure.
+
+9. What are the components of a Dashboard?
+A. Horizontal B. Vertical C. Image Extract D. All of the above
+
+Answer: Option D
+
+8. What’s the disadvantage of context filters?
+A. The context filter isn’t oft-times modified by the user – if the filter is modified the info should recompute and rewrite the temporary table, deceleration performance B. When you set a dimension to context, Tableau crates a brief table which will need a reload when the read is initiated 
+
+C. Both A and B 
+
+D. None
+
+Answer: Option C
+
+7. For creating variable size bins we use _____________
+A. Sets B. Groups C. Calculated fields D. Table Calculations
+
+Answer: Option C
+
+6. What are the file extensions in Tableau.
+A. Tableau Workbook (.twb) B. Tableau Packaged Workbook (.twbx) C. Tableau Data Source(.tds) D. All of the above
+
+Answer: Option D
+
+The image below uses which map visualization?
+A. Filled maps B. Layered maps C. WMS server maps D. Symbol maps
+
+Answer: Option C
+
+4. For creating variable size bins we use _____________
+A. Sets B. Groups C. Calculated fields D. Table Calculations
+Answer: Option C
+
+3. How do you identify a continuous field in Tableau?
+A. It is identified by a blue pill in the visualization B. It is identified by a green pill in a visualization C. It is preceded by a # symbol in the data window D. When added to the visualization, it produces distinct values
+
+Answer: Option B
+
+2. By definition, Tableau displays measures over time as a ____________
+A. Bar B. Line C. Histogram D. Scatter Plots
+
+Answer: Option B
+
+1. Which of the following is not a Trend Line model
+A. Linear Trend Line B. Exponential Trend Line C. Binomial Trend Line D. Logarithmic Trend Line
+
+Answer: Option C
+
